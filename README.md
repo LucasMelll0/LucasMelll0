@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##### i'm currently learning Kotlin
+
 <!--
 **LucasMelll0/LucasMelll0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
