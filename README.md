@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello World !! 👋
 
-##### i'm currently learning Kotlin
+#### i'm student of Information Sistems on 5º period 👨‍💻
+
+##### i'm currently learning Kotlin on Android 🤯
 
 
 ## Languages     
