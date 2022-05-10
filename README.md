@@ -1,11 +1,15 @@
-### Hello World !! 👋
+## Hello World !! 👋
 
 #### i'm student of Information Sistems on 5º period 👨‍💻
 
 ##### i'm currently learning Kotlin on Android 🤯
 
+### How to reach me:
 
-## Languages     
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/lucas-mello-a43887188/
+
+
+### Languages     
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
