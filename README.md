@@ -1,6 +1,6 @@
 # Hello World !! 👋
 
-### i'm student of Information Sistems on 5º period 👨‍💻
+### i'm a Brazilian student of Information Systems on 5º period 👨‍💻🇧🇷
 
 ### i'm currently learning Kotlin on Android 🤯
 
