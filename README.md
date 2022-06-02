@@ -9,7 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mello-a43887188/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact)](https://github.com/LucasMelll0/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMelll0)](https://github.com/LucasMelll0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact)](https://github.com/LucasMelll0/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMelll0)](https://github.com/LucasMelll0/github-readme-stats)
 
 
 ## Languages     
