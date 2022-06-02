@@ -23,11 +23,11 @@
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
 </div>
-
-  
-
+ <br>
+ <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact)](https://github.com/LucasMelll0/github-readme-stats)
-
+<br>
+<br>
 <div align"center">
   <h3>How to reach me:</h3>
   <br>
