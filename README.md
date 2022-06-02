@@ -1,18 +1,19 @@
-# Hello World !! 👋
-
+<div align="center">
+  #Hello World !! 👋
+</div>
+ 
+<div align-"center">
 ### i'm a Brazilian student of Information Systems on 5º period 👨‍💻🇧🇷
 
 ### i'm currently learning Kotlin on Android 🤯
-
-## How to reach me:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mello-a43887188/)
+</div>
 
 
 
 
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMelll0)](https://github.com/LucasMelll0/github-readme-stats)
-
+</div>
 
 ## Languages     
 
@@ -20,6 +21,13 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact)](https://github.com/LucasMelll0/github-readme-stats)
+
+<div align"center">
+## How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mello-a43887188/)
+
+</div>
 
 <!--
 **LucasMelll0/LucasMelll0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
