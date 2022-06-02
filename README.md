@@ -11,9 +11,9 @@
 
 
 
-<div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMelll0)](https://github.com/LucasMelll0/github-readme-stats)
-</div>
+
 
 ## Languages     
 
