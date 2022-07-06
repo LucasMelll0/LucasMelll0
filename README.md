@@ -4,7 +4,7 @@
  
 <div align-"center">
 
-  <h2> i'm a Brazilian student of Information Systems on 5º period 👨‍💻🇧🇷 
+  <h2> i'm a Brazilian student of Information Systems on 6º period 👨‍💻🇧🇷 
 
   <h2> i'm currently learning Kotlin on Android 🤯 </h2>
 
