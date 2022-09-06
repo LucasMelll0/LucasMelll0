@@ -10,7 +10,7 @@
       
       </div>
       <br>
-      <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
+      <br>
       <br>
       
       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMelll0)](https://github.com/LucasMelll0/github-readme-stats)
@@ -25,13 +25,11 @@
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
       </div>
        <br>
-       <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
        <br>
        
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact)](https://github.com/LucasMelll0/github-readme-stats)
       
       <br>
-      <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
       <br>
       <div align"center">
         <h3>How to reach me:</h3>
