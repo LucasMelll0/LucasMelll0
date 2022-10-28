@@ -2,7 +2,7 @@
   <h1>Hello World !! 👋</h1>
 </div>
  
-<div align-"center">
+<div style="text-align: center;">
 
   <h2> i'm a Brazilian student of Information Systems on 6º period 🎓🇧🇷 
 
@@ -13,7 +13,13 @@
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 <br>
 
-[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMelll0&show_icons=true&theme=tokyonight)](https://github.com/LucasMelll0/github-readme-stats)
+<div style="text-align: center;">
+
+  [![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMelll0&show_icons=true&theme=tokyonight)](https://github.com/LucasMelll0/github-readme-stats)
+
+</div>
+
+
 
 
 
@@ -30,14 +36,16 @@
  <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 <br>
  <br>
+<div style="text-align: center;">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact&theme=tokyonight)](https://github.com/LucasMelll0/github-readme-stats)   
+  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasMelll0&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact&theme=tokyonight)](https://github.com/LucasMelll0/github-readme-stats)
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasMelll0&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</div>
 
 <br>
 <br>
-<div align"center">
+<div style="text-align: center;">
   <h3>How to reach me:</h3>
   <br>
   <a href="mailto:lucasmellorodrigues2012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
