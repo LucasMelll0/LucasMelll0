@@ -4,7 +4,7 @@
  
 <div style="text-align: center;">
 
-  <h2> i'm a Brazilian student of Information Systems on 6º period 🎓🇧🇷 
+  <h2> i'm a Brazilian student of Information Systems on 7º period 🎓🇧🇷 
 
   <h2> i'm focused on android native development currently with kotlin, but i already used android with java 👨🏽‍💻 </h2>
 
