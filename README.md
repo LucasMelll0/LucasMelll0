@@ -15,8 +15,7 @@
 
 <div style="text-align: center;">
 
-  [![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMelll0&show_icons=true&theme=tokyonight)](https://github.com/LucasMelll0/github-readme-stats)
-
+  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMelll0&show_icons=true&theme=transparent)
 </div>
 
 
@@ -38,7 +37,8 @@
  <br>
 <div style="text-align: center;">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact&theme=tokyonight)](https://github.com/LucasMelll0/github-readme-stats)   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact&theme=transparent)
+  <br>
   [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasMelll0&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
