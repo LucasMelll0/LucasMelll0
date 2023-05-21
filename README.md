@@ -7,6 +7,8 @@
   <h2> i'm a Brazilian student of Information Systems on 7º period 🎓🇧🇷 
 
   <h2> i'm focused on android native development currently with kotlin, but i already used android with java 👨🏽‍💻 </h2>
+    
+  <h2> currently i'm studying jetpack compose 🚀</h2>
 
 </div>
 <br>
