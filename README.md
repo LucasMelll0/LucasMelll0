@@ -15,7 +15,7 @@
 <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 <br>
 
-<div style="text-align: center;">
+<div align="center">
 
   ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMelll0&show_icons=true&theme=transparent)
 </div>
@@ -36,7 +36,7 @@
  <img src="https://camo.githubusercontent.com/76109812f3127b0f86940373897b04ac8943cb3c0f057f90046444480f61bafd/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67">
 <br>
  <br>
-<div style="text-align: center;">
+<div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact&theme=transparent)
   <br>
