@@ -28,7 +28,6 @@
    <a href="https://dart.dev/"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
   <a href="https://kotlinlang.org/)"><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
   <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)"></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 </div>
  <br>
 <br>
@@ -37,7 +36,6 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMelll0&layout=compact&theme=transparent)
   <br>
-  [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasMelll0&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
